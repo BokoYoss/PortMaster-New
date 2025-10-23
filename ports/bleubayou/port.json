@@ -1,0 +1,39 @@
+{
+  "version": 4,
+  "name": "bleubayou.zip",
+  "items": [
+    "Bleu Bayou.sh",
+    "bleubayou"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Bleu Bayou",
+    "porter": [
+      "Yossarian"
+    ],
+    "desc": "Embody a crawdad plagued by debt in this roguelite boss-rush shoot 'em up.",
+    "desc_md": "A lonesome crawdad mired in debt, you vie to topple the loan sharks and robber barons that run your neck of the bayou in this 8-bit roguelite boss rush shoot 'em up.\n\n* Sling your trusty machete and rusty harpoon with Breakout-inspired toss-catch mechanics!\n* Challenge bayou bosses to fast-paced, ambidextrous combat!\n* Roguelite progression system featuring 100+ unique upgrades! Your build is in your hands!\n* Hone your machete, electrify your harpoon, or punish your foes with status effects like Poison, Bleed, Hex, and Frost. Grow your upgrade pool across subsequent runs! \n* Manage your time and money wisely as you fight to stay afloat in the Bayou's predatory economy. The vig on your debts grows daily!\n* Risk it all at the casino, or visit the bookie to make high-stakes parlay bets on your performance in boss fights!\n* Test your skills in Time Attack mode to unlock powerful rewards!\n* Meaningful player choice and multiple endings put you in control of your destiny!\n* Authentic 8-bit aesthetics!\n\n\n",
+    "inst": "Includes demo build with lots of content. Copy over data.win from the Steam build of the full game if you want to play the full game on your device.",
+    "inst_md": null,
+    "genres": [
+      "action"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": [],
+    "store": [
+      {
+        "name": "Steam",
+        "gameurl": "https://store.steampowered.com/app/3806790/Bleu_Bayou",
+        "developerurl": "https://store.steampowered.com/search/?developer=Bokoyoss%20Games"
+      }
+    ],
+    "availability": "demo",
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": ""
+  }
+}
